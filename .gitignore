@@ -1,0 +1,12 @@
+# Historia y estado de la sesion de RStudio
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# Proyectos de RStudio
+.Rproj.user/
+
+# Salidas generadas
+Rplots.pdf
+Rplots.png
